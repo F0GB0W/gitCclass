@@ -1,1 +1,6 @@
 안녕
+우왕진짜 졸리다
+public class 안녕 {
+
+    System.out.println("이거 안녕임~");
+}
